@@ -1,6 +1,6 @@
 body{
     color: white;
-    background-color: #1C1C1C;
+    background-color: #ddb0dd;
     background-size: cover;
     height: 100vh;
     text-align: center;
@@ -11,7 +11,7 @@ body{
 }
 
 .container{
-    background: #1F2937;
+    background: #9161a08c;
     padding-top: 30px;
     padding-bottom: 69px;
     
@@ -23,7 +23,7 @@ hr{
     margin-bottom: 18px;
     border: none;
     padding: 1px;
-    background-color: #273549;
+    background-color: white;
     max-width: 83%;
 }
 
@@ -34,7 +34,7 @@ h1{
 }
 
 h2{
-    color: #4ADF86;
+    color: hwb(305 14% 55%);
     font-size: 30px;
     margin-bottom: -10px;
     font-weight: bold;
@@ -49,8 +49,8 @@ h3{
 
 button{
     margin-top: 20px;
-    background-color: #4ADF86;
-    color: white;
+    background-color: hwb(305 14% 55%);
+    color: rgb(255, 255, 255);
     padding: 10px ;
     border-radius: 6px;
     font-weight: bold;
@@ -58,8 +58,8 @@ button{
 }
 
 #secound-Btn{
-    background-color: #273549;
-    color: #4ADF86;
+    background-color:rgba(255, 255, 255, 0.897);
+    color: #9161a0;
     border: none;
     margin-right: 8px;
     margin-left: 8px;
@@ -68,8 +68,8 @@ button{
 }
 
 #third-Btn{
-    background-color: #273549;
-    color: #4ADF86;
+    background-color: rgba(255, 255, 255, 0.897);
+    color: #9161a0;
     border: none;
     margin-right: 8px;
     margin-left: 8px;
